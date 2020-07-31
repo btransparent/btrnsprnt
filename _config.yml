@@ -8,8 +8,9 @@ twitter_username: btransparent1
 github_username:  btransparent
 
 # Build settings
-theme: minima
-#theme: jekyll-theme-minimal
+#theme: minima
+theme: jekyll-theme-minimal
+#theme: jekyll-theme-slate
 
 plugins:
   - jekyll-feed
